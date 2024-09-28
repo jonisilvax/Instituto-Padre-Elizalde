@@ -1,0 +1,2 @@
+CAMBIO DE PROYECTO:
+Al principio mi proyecto iba a tratar sobre una página institucional, basicamente era la página de mi colegio, el tema es que yo iba a hacer esa página para subirla y que mi colegio la utilizara, por un tema legal con justamente la representante legal eso cambio. Por eso elegí hacer la página sobre Nutrity, un proyecto personal que estamos haciendo con mis compañeros de curso (colegio).
